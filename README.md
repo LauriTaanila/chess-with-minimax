@@ -1,6 +1,6 @@
-##chess-with-minimax
+# chess-with-minimax
 
-#C++ chess. Play against a human or a computer.
+## C++ chess. Play against a human or a computer.
 
 
 
