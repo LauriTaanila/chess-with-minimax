@@ -6,6 +6,8 @@
 
 void gameLoop(bool vsComputer);
 
+//Lauri Taanila
+
 int main()
 {
 
